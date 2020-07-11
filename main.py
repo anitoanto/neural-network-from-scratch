@@ -156,4 +156,4 @@ def FASTtrainmodel(modeldata,nepoch,nbatch,resume = False):
     np.save("FastSaves/b3.npy",modeldata[5])
 
 mymodel = initmodel(784,16,16,10)
-FASTtrainmodel(mymodel,5,60)
+trainmodel(mymodel,10,60, True)

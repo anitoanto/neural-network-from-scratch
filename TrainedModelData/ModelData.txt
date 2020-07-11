@@ -1,0 +1,1 @@
+BestEpoch:39:Accuracy:81.08
