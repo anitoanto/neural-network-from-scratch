@@ -1,1 +1,1 @@
-CompletedEpoch:40:Accuracy:81.03:BestAccuracy:81.08
+CompletedEpoch:50:Accuracy:81.55:BestAccuracy:81.55
