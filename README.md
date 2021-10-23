@@ -12,4 +12,4 @@ More advancements are welcome.
 Extract MNIST.zip, run imgs_to_npy.py.</br>
 Adjust variables in main.py for fine tuning the network.</br>
 Run main.py. All training data is saved in respective folders.</br>
-You can see the accuracy increasing with each epoch.
+You can see the accuracy with each epoch.
